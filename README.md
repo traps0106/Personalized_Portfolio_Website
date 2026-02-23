@@ -22,6 +22,7 @@ This project is a professional personal portfolio website designed to showcase s
 - Assets: Images and AVIF files used for profile and skill sections.
 
 ## Author
-Rayyan Khan
-Current Degree: American University of Bahrain (Expected Graduation: 2027)
-Goal: Full-stack Developer transitioning into Cybersecurity.
+Rayyan Khan  
+Current Degree: American University of Bahrain (Expected Graduation: 2027)  
+Goal: Full-stack Developer transitioning into Cybersecurity.  
+
